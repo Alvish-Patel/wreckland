@@ -1,0 +1,73 @@
+
+---Downloaded files---
+The import files for: Auto Service were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://kingcom.wellywreckers.co.nz
+Data file = /home3/kingauto/public_html/kingcom/wp-content/plugins/keydesign-addon/includes/admin/demos/auto-service/auto-service-demo-content.xml
+Widget file = /home3/kingauto/public_html/kingcom/wp-content/plugins/keydesign-addon/includes/admin/demos/general/website-content.xml
+Customizer file = /home3/kingauto/public_html/kingcom/wp-content/plugins/keydesign-addon/includes/admin/demos/general/widgets.wie
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Recent Posts with Thumbnails - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+Social Icons - Follow Us - Imported
+Banner - News, Insights &amp; Events - Imported
+
+Shop Sidebar : 
+
+woocommerce_product_search - Search - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_top_rated_products - Top rated products - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+
+bbpress-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+bbp_search_widget - Search Forums - Site does not support widget
+bbp_views_widget - Topic Views List - Site does not support widget
+bbp_stats_widget - Forum Statistics - Site does not support widget
+Social Icons - Find us on - Imported to Inactive
+
+Page Sidebar : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Text - About us - Imported
+Social Icons - Follow us - Imported
+Text - Start membership - Imported
+
+Footer first widget area : 
+
+Text - SWAY - Imported
+
+Footer second widget area : 
+
+Navigation Menu - About - Imported
+
+Footer third widget area : 
+
+Navigation Menu - Products - Imported
+
+Footer fourth widget area : 
+
+Navigation Menu - Resources - Imported
+
+Footer fifth widget area : 
+
+Custom HTML - Contact - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: redux_ThemeTek finished successfully!
+
+---pt-ocdi/after_import---
+
